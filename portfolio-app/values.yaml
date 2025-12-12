@@ -1,0 +1,6 @@
+replicaCount:
+
+image:
+    repository: avian19/go-port
+    pullPolicy: IfNotPresent
+    tag: "10201891038"
