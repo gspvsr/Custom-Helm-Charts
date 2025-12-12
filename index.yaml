@@ -3,7 +3,7 @@ entries:
   portfolio-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-12T01:29:28.372972594Z"
+    created: "2025-12-12T02:03:50.091192906Z"
     description: A Helm chart for Kubernetes
     digest: ba3ef69b8073462931e04886a59f961bff589372f3a0e011ef3891bdf9be549c
     name: portfolio-app
@@ -11,4 +11,15 @@ entries:
     urls:
     - portfolio-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-12T01:29:28.37252251Z"
+  tetris-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-12T02:03:50.09147152Z"
+    description: A Helm chart for Kubernetes
+    digest: 6da0929514a8d7807dc313b101565ca97a9e51305bb0285f7eaa3e5bd0b9ff2e
+    name: tetris-app
+    type: application
+    urls:
+    - tetris-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-12T02:03:50.090828497Z"

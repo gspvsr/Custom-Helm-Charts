@@ -1,0 +1,6 @@
+replicaCount:
+
+image:
+  repository: avian19/tetrisv2
+  pullPolicy: IfNotPresent
+  tag: "1"
